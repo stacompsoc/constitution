@@ -2,7 +2,7 @@
 
 ## Title
 
-The society shall be called "St Andrews University Computing Society", but may
+The society shall be called "University of St Andrews Computing Society", but may
 also be abbreviated to "STACS".
 
 ## Aims
@@ -25,7 +25,7 @@ The aims of the society are:
   students of the University of St Andrews.
 * **Associate Membership**. Associate membership shall be open to everybody else.
 
-## The Committee
+## The Executive Committee
 The affairs of the society shall be managed by the Executive Committee, which
 consists of:
 
@@ -45,6 +45,35 @@ The above 5 members form the executive committee, which is responsible for:
 * Organisation of the society as a whole
 * Dividing tasks between committee members and volunteers
 
+## The General Committee
+In addition to the Executive Committee, there shall be a General Committee.
+Members of the General Committee shall be appointed by the Executive Committee
+with the intention to delegate organisational duties for events occuring
+during the academic year.
+
+* Requirements
+    * All general committee members must be ordinary members of STACS
+
+* Appointment
+    * A prospective General Committee Member must be appointed by at least a 3/5
+    majority decision at an Executive Committee Meeting.
+    * All ordinary society members must be informed of the appointment by at most
+    7 days after the appointment.
+
+* General Committee membership lasts until either:
+	* The member resigns;
+	* The member's General Committee membership is revoked;
+	* or the end of the academic year.
+
+* Revoking: 
+  * The Executive Committee reserves the right to revoke membership without giving reason.
+  * After revoking membership, all society members must be informed in the following 7 days.
+
+* Resignation:
+  * All members reserve the right to resign without giving reason.
+  * All executive committee members must be informed of the member's decision.
+  * After resignation, all society members must be informed in the following 7 days.
+
 ## Subscription
 Society subscription shall be £3 for ordinary members, and £6 for associate
 members.
@@ -58,7 +87,7 @@ The finances of the society will be dealt with following the guidelines laid dow
 by the Societies' Committee of the Student's Association. In the event of a budget 
 deficit, this will be paid off by an equal subscription from all members, unless 
 the Societies' Committee judges a negligence on the part of one or more 
-officebearers of the society, when they as individuals will be liable. Membership 
+office-bearers of the society when they as individuals will be liable. Membership 
 fees will be in line with those set by the Societies' Committee, and approved at 
 the AGM.
 
@@ -73,7 +102,7 @@ elected committee members. All elected committee members will be given at least
 24 hours notice of any committee meeting.
 
 The quorum for a General Meeting of the society will be at least 1/5 of ordinary 
-members. In the event of an aquorate meeting all members and the Societies' 
+members. In the event of an inquorate meeting all members and the Societies' 
 Officer will be informed. If within 14 days there is no objection reported, 
 it will stand ratified.
 
@@ -88,5 +117,5 @@ Societies' Committee of the Student's Association.
 
 ## Dissolution
 In the event of the club being dissolved any funds remaining in the society 
-account(s), and assets belonging to the society, shall be donated to 
+account(s), and assets belonging to the society shall be donated to 
 Computer Aid International (Registered Charity Number 1069256).
